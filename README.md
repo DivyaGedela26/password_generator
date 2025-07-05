@@ -21,7 +21,7 @@ A simple and customizable command-line password generator built with Python. It 
 
 ## 📸 Screenshot
 
-![Screenshot 2025-05-16 104858](https://github.com/user-attachments/assets/fea41b4a-5806-4ff8-96a9-e1d258665eda)
+![Screenshot 2025-07-05 215801](https://github.com/user-attachments/assets/c5881c85-550b-40f8-989f-70543e2972a8)
 
 
 ---
